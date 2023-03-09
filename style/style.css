@@ -1,0 +1,19 @@
+.bar {
+    fill: steelblue;
+}
+text.title{
+    font-size: 30px;
+}
+body{
+    background-color: rgba(250, 244, 237, 0.735);
+}
+svg{
+    width: 1000px;
+    height:800px;
+}
+/* text.xaxis,
+text.yaxis{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+} */
